@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c997382-e115-4f50-8dc6-ef54c44eb3c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/html2image.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-world.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-world.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/id_card_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/html2image-2.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-gui.ava.html.imagemap.HtmlImageMapImplTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-gui.ava.html.parser.HtmlParserImplTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-gui.ava.html.pdf.PdfRendererImplTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-gui.ava.html.renderer.FormatNameUtilTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-gui.ava.html.renderer.ImageRendererImplTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/gui.ava.html.imagemap.HtmlImageMapImplTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/gui.ava.html.parser.HtmlParserImplTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/gui.ava.html.pdf.PdfRendererImplTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/gui.ava.html.renderer.FormatNameUtilTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/gui.ava.html.renderer.ImageRendererImplTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/gui/ava/html/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/gui/ava/html/Example.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="75c13a1c-15c5-4b98-b135-915de41d31bf" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mPbme6lWT6zzIDdtpovmznT3i3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.ava.html.Example" />
+      <module name="html2image" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.ava.html.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c997382-e115-4f50-8dc6-ef54c44eb3c2" name="Default Changelist" comment="" />
+      <created>1609398333474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609398333474</updated>
+      <workItem from="1609398334632" duration="1311000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="72" y="23" key="#Project_Structure" timestamp="1609399367420">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="72" y="23" key="#Project_Structure/0.23.1680.961@0.23.1680.961" timestamp="1609399367420" />
+    <state x="297" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609398561869">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="297" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.961@0.23.1680.961" timestamp="1609398561869" />
+    <state x="275" y="28" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1609399248439">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="275" y="28" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1680.961@0.23.1680.961" timestamp="1609399248439" />
+    <state width="1618" height="291" key="GridCell.Tab.0.bottom" timestamp="1609399668067">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1618" height="291" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1609399668067" />
+    <state width="1618" height="291" key="GridCell.Tab.0.center" timestamp="1609399668064">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1618" height="291" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1609399668064" />
+    <state width="1618" height="291" key="GridCell.Tab.0.left" timestamp="1609399668063">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1618" height="291" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1609399668063" />
+    <state width="1618" height="291" key="GridCell.Tab.0.right" timestamp="1609399668067">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1618" height="291" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1609399668067" />
+    <state width="1618" height="291" key="GridCell.Tab.1.bottom" timestamp="1609399668069">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1618" height="291" key="GridCell.Tab.1.bottom/0.23.1680.961@0.23.1680.961" timestamp="1609399668069" />
+    <state width="1618" height="291" key="GridCell.Tab.1.center" timestamp="1609399668068">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1618" height="291" key="GridCell.Tab.1.center/0.23.1680.961@0.23.1680.961" timestamp="1609399668068" />
+    <state width="1618" height="291" key="GridCell.Tab.1.left" timestamp="1609399668068">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1618" height="291" key="GridCell.Tab.1.left/0.23.1680.961@0.23.1680.961" timestamp="1609399668068" />
+    <state width="1618" height="291" key="GridCell.Tab.1.right" timestamp="1609399668069">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="1618" height="291" key="GridCell.Tab.1.right/0.23.1680.961@0.23.1680.961" timestamp="1609399668069" />
+    <state x="106" y="23" key="SettingsEditor" timestamp="1609398930444">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="106" y="23" key="SettingsEditor/0.23.1680.961@0.23.1680.961" timestamp="1609398930444" />
+    <state x="406" y="369" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1609399083294">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="406" y="369" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1680.961@0.23.1680.961" timestamp="1609399083294" />
+    <state x="408" y="159" width="863" height="688" key="find.popup" timestamp="1609399458863">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="408" y="159" width="863" height="688" key="find.popup/0.23.1680.961@0.23.1680.961" timestamp="1609399458863" />
+  </component>
+</project>
